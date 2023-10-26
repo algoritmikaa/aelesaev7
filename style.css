@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    background-color: rgb(5, 178, 120);
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+}
+
+nav a {
+    color: black;
+    margin: 6px;
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(10, 187, 48);
+    text-shadow: 10px 10px 10px grey;
+    text-align: center;
+    font-size: 70px;
+}
+
+header {
+    background-color: navy;
+    padding: 35px;
+}
+
+p {
+    font-size: 25px;
+}
+
+footer a {
+    margin: 15px;
+}
+
+.text-big {
+    font-size: 45px;
+}
+
+li {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 30px;
+}
